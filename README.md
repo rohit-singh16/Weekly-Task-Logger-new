@@ -2,6 +2,7 @@
 
 A premium Aurora-themed productivity app with animated neon UI, task management, and geolocation-powered login tracking.
 
+Project Demo Link - https://sprightly-eclair-a731b8.netlify.app/
 ✨ Overview
 
 Meteoros is a beautifully crafted, modern task logging application built with React + TypeScript + Vite, designed with a premium Aurora-inspired UI, neon-glass components, smooth animations, and professional-quality UX.
