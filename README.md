@@ -199,3 +199,8 @@ If you like this project…
 
 Give it a star ⭐ on GitHub!
 It motivates future UI upgrades, animations, and more Aurora effects.
+<img width="1911" height="944" alt="image" src="https://github.com/user-attachments/assets/2e84a766-fb61-47a5-bdff-f8949dd34fc7" />
+<img width="1911" height="925" alt="image" src="https://github.com/user-attachments/assets/31d13129-1b37-41f0-9ca2-3aae66db776c" />
+<img width="1894" height="948" alt="image" src="https://github.com/user-attachments/assets/3c94b5bd-2da6-4da4-9d36-499108a5c662" />
+
+
